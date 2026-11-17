@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Matplotlib cache
+.mplconfig/
+
+# Virtual Environment directories
+venv/
+env/
+ENV/
+.venv/
+
+# Streamlit config / cache
+.streamlit/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and test logs
+*.log
